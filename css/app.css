@@ -1,0 +1,70 @@
+body, table{font-size:12px;font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif"}
+body{background:#efe}
+table{border-collapse:collapse;border:0}
+table td,th{padding:5px;text-align:left;vertical-align:top}
+a{color:green;text-decoration:none}
+h1, h2, h3, h4, h5, h6{margin:0;padding:0}
+
+form td{vertical-align:middle;padding:2px 5px}
+input[type=text],input[type=password],textarea{border:1px solid #ccc;padding:3px}
+input[type=button],input[type=submit],input[type=reset], button, .button{color: white; border: none; display:inline-block; text-decoration:none; cursor:pointer; padding: 4px 8px; margin:3px 0; border-radius: 4px; box-shadow: 1px 1px 2px #aaaaaa; background: -o-linear-gradient(#ada, #090); background: -webkit-linear-gradient(#ada, #090); background: linear-gradient(#ada, #090); background-color: #090; border-image: initial;color:gold;text-shadow:1px 1px 1px black;font-weight:bold}
+input[type=button]:hover,input[type=submit]:hover,input[type=reset]:hover, button:hover{color:greenyellow}
+
+.button:hover{text-decoration:none;color:greenyellow}
+.disabled{background: -o-linear-gradient(#ccc, #aaa);background:-webkit-linear-gradient(#ccc, #aaa);background: linear-gradient(#ccc, #aaa);background-color: #ccc}
+
+textarea.medium{width:250;height:70px}
+textarea.large{width:300;height:150px}
+table.data{width:100%;border:5px solid #ada}
+table.data td.head{border:none;background:green;color:white}
+table.data td, table.data th{vertical-align:middle;background:#efe;border:1px solid #9c9}
+table.data th{text-align:center;background:#ada}
+
+table.detail{width:100%;border:1px solid #9c9}
+table.detail td, table.detail th{vertical-align:middle;background:#efe;padding:5px 10px}
+table.detail th{color:green;font-weight:bold}
+
+#dialog, #ajaxiframe{display:none}
+#body{width:97%;background:#fff;border:10px solid green;box-shadow:4px 4px 10px #555}
+
+.body{width:60%;height:500px;padding:10px}
+.left{width:20%;border-right:1px dotted #ccc;padding:10px}
+.right{width:20%;border-left:1px dotted #ccc;padding:10px}
+.header{background:green;text-shadow:1px 1px 2px #999;color:white}
+.hlogin{background:green;text-shadow:1px 1px 2px #999;text-align:right;vertical-align:middle}
+.hlogin a{color:#ada}
+.menu{background:green}
+.menu a{padding:1px 5px;display:inline-block;font-weight:bold;text-shadow:1px 1px 1px #555;color:#ada}
+.menu a:hover{color:white}
+.footer{background:green;color:#ada;text-align:center;text-shadow:1px 1px 1px #555}
+
+
+.menuleft a{display:block;background-color:#ada; background-repeat:no-repeat; background-position:3% 50%;color:green;padding:5px 5px 5px 30px;margin-bottom:5px;border-radius:3px;border:1px solid #9c9;font-weight:bold;box-shadow:1px 1px 5px #ccc}
+.menuleft a:hover{color:white;background-color:green;border-color:green}
+
+.fleft{float:left}
+.fright{float:right}
+.inline{display:inline}
+.inlineb{display:inline-block}
+.vtop{vertical-align:top}
+.vmiddle{vertical-align:middle}
+.vbottom{vertical-align:bottom}
+.acenter{text-align:center}
+.aleft{text-align:left}
+.aright{text-align:right}
+.dim{color:#999}
+.clear{clear:both;height:3px}
+.btmline{border:1px dotted #ccc}
+.error{color:red}
+
+.outerbox{background:#ada;border:1px solid #9c9;padding:3px 5px;box-shadow:1px 1px 5px #999;margin-bottom:10px}
+.outerbox .title{font-size:18px;color:green;text-shadow:1px 1px 1px black;margin-bottom:5px}
+.innerbox{background:#efe;border:1px solid #9c9;padding:5px;margin:3px 0;overflow:hidden;border-radius:4px;box-shadow:1px 1px 2px #999}
+.innerleft{float:left;margin-right:10px}
+.innerright{float:right;margin-left:10px}
+.delete{display:block;background:url(images/cross.png) no-repeat;float:right;width:16px;height:16px;cursor:pointer;display:none}
+.heading{font-size:14px;color:goldenrod;text-shadow:1px 1px 1px black;margin-bottom:5px;font-weight:bold}
+.innerdiv{overflow:hidden}
+
+.post .innerleft{width:100px}
+.comments{background:#ccc}
