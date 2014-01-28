@@ -6,9 +6,6 @@ Project DATE uplouded:
 Project Name:
  Online System of IQRA STUDENT ORGANIZATION
 
-Develope By: Badar Munir Ahmad(08030564)
-it is my fyp project, which is credit module
- 
 
 To Oprate this website, default username and password is given below
 
